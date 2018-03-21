@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/LichtSensor.iml" filepath="$PROJECT_DIR$/LichtSensor.iml" />
+      <module fileurl="file://C:\Users\mkoenig\AndroidStudioProjects\android_lichtsensor\LichtSensor.iml" filepath="C:\Users\mkoenig\AndroidStudioProjects\android_lichtsensor\LichtSensor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android_lichtsensor.iml" filepath="$PROJECT_DIR$/android_lichtsensor.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
